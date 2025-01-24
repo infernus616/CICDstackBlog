@@ -880,10 +880,3 @@ http://<monitoring-vm-ip>:9115
 By setting up these components, you’ll be able to monitor your application’s health and performance effectively.
 
 ### **The End**
-
-## **Author by:**
-
-![s](https://imgur.com/2j6Aoyl.png)
-
-> [!NOTE]
-> **Join Our** [Telegram Community](https://t.me/prodevopsguy) // [Follow me](https://github.com/NotHarshhaa) **for more DevOps & Cloud content.**
